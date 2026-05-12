@@ -1,4 +1,4 @@
-# Hi, I'm Yauheni Budzko
+# Hi, I'm Yauheni 👋
 
 Full Stack Developer based in Warsaw, Poland. I build production-ready web applications — from database schema to deployed UI — with a focus on clean architecture and real business impact.
 
@@ -20,6 +20,7 @@ Currently open to junior and mid-level full stack roles.
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat&logo=typeorm&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 **Infrastructure**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -36,7 +37,23 @@ A full-stack business management system built for a real client. Handles daily f
 
 `Next.js` `NestJS` `TypeScript` `PostgreSQL` `TypeORM` `JWT` `RBAC` `Docker` `Vercel`
 
-🔗 [Live demo](https://sv-kassa-new-frontend.vercel.app)
+🔗 [Live demo](https://sv-kassa-new-frontend.vercel.app) _(requires credentials — the app implements real JWT auth with role-based access control. Contact me for a guest login or see the repo for full documentation.)_
+
+---
+
+### [AutoShorts](https://github.com/YauheniBudzko/autocut) — AI-Powered Short-Form Video Pipeline
+A fully automated content pipeline that discovers YouTube channels, downloads videos, transcribes audio with Whisper AI, identifies viral moments using Google Gemini, and produces edited vertical clips ready for TikTok/Reels/Shorts — including auto-upload.
+
+`Python` `Docker` `PostgreSQL` `OpenAI Whisper` `Google Gemini` `FFmpeg` `yt-dlp`
+
+---
+
+### [Sudoku for Couples](https://github.com/YauheniBudzko/sudoku-for-couples) — Real-Time Multiplayer Puzzle Game
+A collaborative Sudoku web app where two players solve puzzles together in real time, built with a full-stack architecture and WebSocket-based live interaction.
+
+`TypeScript` `Next.js` `NestJS` `WebSockets`
+
+🔗 [Live demo](https://sudoku-for-couples.vercel.app)
 
 ---
 

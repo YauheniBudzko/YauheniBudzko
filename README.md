@@ -2,7 +2,7 @@
 
 Product Manager with a full-stack engineering foundation, based in Warsaw, Poland. I've shipped production SaaS products, led 60+ person cross-functional teams, and built everything from JWT-based RBAC systems to automated AI pipelines — without needing a translation layer between product and engineering.
 
-Currently open to **Product Manager** and **Product Owner** roles.
+Currently open to **Junior Product Manager**, **APM** and **Junior Product Owner** roles.
 
 ---
 

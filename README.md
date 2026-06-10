@@ -1,55 +1,53 @@
 # Hi, I'm Yauheni 👋
 
-Full Stack Developer based in Warsaw, Poland. I build production-ready web applications — from database schema to deployed UI — with a focus on clean architecture and real business impact.
+Product Manager with a full-stack engineering foundation, based in Warsaw, Poland. I've shipped production SaaS products, led 60+ person cross-functional teams, and built everything from JWT-based RBAC systems to automated AI pipelines — without needing a translation layer between product and engineering.
 
-Currently open to junior and mid-level full stack roles.
+Currently open to **Product Manager** and **Product Owner** roles.
 
 ---
 
-## 🛠 Tech Stack
+## 🗂 What I Do
 
-**Frontend**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-**Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat&logo=typeorm&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-**Infrastructure**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+| Product | Engineering |
+|---|---|
+| Roadmapping & backlog refinement | TypeScript / JavaScript |
+| Sprint planning & Agile delivery | React / Next.js / NestJS |
+| User research & product discovery | PostgreSQL / TypeORM |
+| Stakeholder communication | Docker / AWS / Azure |
+| Product analytics | REST APIs / WebSockets |
+| Jira / user story writing | Python / Git |
 
 ---
 
 ## 🚀 Featured Projects
 
-### [SV Kassa](https://github.com/YauheniBudzko/sv_kassa_new) — Point-of-Sale & Inventory Analytics Platform
-A full-stack business management system built for a real client. Handles daily financial records, multi-shop inventory tracking, and role-based dashboards for CEO, manager, and read-only users.
+### [TirX](https://github.com/YauheniBudzko) — Crowd-Sourced Fuel Price Platform
+Led end-to-end product delivery as PM for a live web app helping drivers find fuel prices across multiple regions. Defined the full product scope from zero, structured a **60+ person team** into five sub-teams (frontend, backend, QA, DevOps, UI/UX), and owned sprint planning and stakeholder reporting throughout.
 
-`Next.js` `NestJS` `TypeScript` `PostgreSQL` `TypeORM` `JWT` `RBAC` `Docker` `Vercel`
+`Product Management` `Jira` `Agile` `Next.js` `NestJS` `PostgreSQL` `Docker`
 
-🔗 [Live demo](https://sv-kassa-new-frontend.vercel.app) _(requires credentials — the app implements real JWT auth with role-based access control. Contact me for a guest login or see the repo for full documentation.)_
+> 🟢 Live and in active development — currently leading ongoing feature delivery as part of my MSc.
 
 ---
 
-### [AutoShorts](https://github.com/YauheniBudzko/autocut) — AI-Powered Short-Form Video Pipeline
-A fully automated content pipeline that discovers YouTube channels, downloads videos, transcribes audio with Whisper AI, identifies viral moments using Google Gemini, and produces edited vertical clips ready for TikTok/Reels/Shorts — including auto-upload.
+### [SV Kassa](https://github.com/YauheniBudzko/sv_kassa_new) — POS & Inventory Analytics Platform
+Identified a real operational gap directly with the CEO of SV Motors: no cross-location performance visibility. Defined the product vision, made prioritisation calls (including ML-powered income prediction and a three-tier RBAC model), and built the entire system end-to-end. **Replaced manual spreadsheet tracking for 80+ staff** and is currently in production.
+
+`Next.js` `NestJS` `TypeScript` `PostgreSQL` `TypeORM` `JWT` `RBAC` `Docker` `Vercel`
+
+🔗 [Live demo](https://sv-kassa-new-frontend.vercel.app) _(JWT auth with role-based access — contact me for a guest login or see the repo for full documentation.)_
+
+---
+
+### [AutoShorts](https://github.com/YauheniBudzko/autocut) — Automated YouTube Shorts Pipeline
+Conceived, architected, and shipped a fully automated content pipeline as a personal growth experiment. Made core product and architecture decisions across 8 isolated Docker services (scraper, downloader, transcriber, highlighter, clipper, editor, uploader). Validated the concept: videos averaged **1,000+ views within the first week**.
 
 `Python` `Docker` `PostgreSQL` `OpenAI Whisper` `Google Gemini` `FFmpeg` `yt-dlp`
 
 ---
 
 ### [Sudoku for Couples](https://github.com/YauheniBudzko/sudoku-for-couples) — Real-Time Multiplayer Puzzle Game
-A collaborative Sudoku web app where two players solve puzzles together in real time, built with a full-stack architecture and WebSocket-based live interaction.
+A collaborative Sudoku web app where two players solve puzzles together in real time.
 
 `TypeScript` `Next.js` `NestJS` `WebSockets`
 
@@ -58,7 +56,7 @@ A collaborative Sudoku web app where two players solve puzzles together in real 
 ---
 
 ### [Lego4dollaz](https://github.com/YauheniBudzko/lego4dollaz) — E-Commerce Web App
-A modern storefront for browsing and ordering LEGO pieces, built during my internship at SoftTeco. Integrates Storyblok CMS for dynamic content and MailerSend for transactional email.
+A modern storefront built during my internship at SoftTeco PL. Integrates Storyblok CMS for dynamic content and MailerSend for transactional email.
 
 `Next.js` `JavaScript` `Tailwind CSS` `ShadCN UI` `Storyblok` `MailerSend` `Vercel`
 
@@ -68,8 +66,10 @@ A modern storefront for browsing and ordering LEGO pieces, built during my inter
 
 ## 🌍 About Me
 
-- 🎓 BSc Software Engineering, Warsaw University of Life Sciences — graduated with honours (4.7/5.0 GPA)
-- 🇵🇹 Erasmus+ at Coimbra Polytechnic — studied product management and led cross-cultural engineering teams
+- 🎓 **MSc Software Engineering** (in progress), Warsaw University of Life Sciences
+- 🎓 **BSc Software Engineering**, Warsaw University of Life Sciences — graduated with honours (4.7 / 5.0 GPA)
+- 🇵🇹 Erasmus+ at Coimbra Polytechnic — product management coursework, led cross-cultural engineering teams
+- 🏆 Captain of the Erasmus volleyball team that won the **International Erasmus Games, Milano 2025**
 - 🗣 Languages: English · Polish · Russian · Belarusian · Portuguese
 - 📍 Based in Warsaw — open to hybrid, on-site, or remote roles
 

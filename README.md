@@ -26,7 +26,7 @@ Led end-to-end product delivery as PM for a live web app helping drivers find fu
 
 `Product Management` `Jira` `Agile` `Next.js` `NestJS` `PostgreSQL` `Docker`
 
-> 🟢 Live and in active development — currently leading ongoing feature delivery as part of my MSc.
+🔗 [Live demo](https://tirx.pl)
 
 ---
 

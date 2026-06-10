@@ -21,7 +21,7 @@ Currently open to **Junior Product Manager**, **APM** and **Junior Product Owner
 
 ## 🚀 Featured Projects
 
-### [TirX](https://github.com/YauheniBudzko) — Crowd-Sourced Fuel Price Platform
+### TirX — Crowd-Sourced Fuel Price Platform
 Led end-to-end product delivery as PM for a live web app helping drivers find fuel prices across multiple regions. Defined the full product scope from zero, structured a **60+ person team** into five sub-teams (frontend, backend, QA, DevOps, UI/UX), and owned sprint planning and stakeholder reporting throughout.
 
 `Product Management` `Jira` `Agile` `Next.js` `NestJS` `PostgreSQL` `Docker`
